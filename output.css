@@ -469,8 +469,8 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 
 img,
 video {
-  max-width: 15%;
-  height: 15%;
+  max-width: 10%;
+  height: 10%;
   transform:translate(0%,-100%)
 }
 
